@@ -1,0 +1,4 @@
+{
+  "latest_version": 123,
+  "banned_versions": [100, 101]
+}
